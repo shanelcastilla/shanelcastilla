@@ -44,20 +44,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=shanelcastilla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanelcastilla&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=shanelcastilla&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://github-readme-activity-graph.vercel.app/graph?username=shanelcastilla&theme=tokyo-night&hide_border=true" />
-</p>
+ 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
